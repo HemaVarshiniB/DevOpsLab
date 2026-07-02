@@ -57,3 +57,6 @@ After completing this setup:
 - If we have multiple images, we can test by adding images path to the URL and see that images are displayed within no-time due to it's caching.
 
 ---	
+
+### Delete the CloudFront distribtion: 
+- Go to AWS CloudFront, open your distribution, disable it and wait until it becomes disabled, then click delete and confirm to remove it.
